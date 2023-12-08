@@ -6,8 +6,7 @@
 
 ## 기술 스택
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Spring_Boot 3.x-6DB33F.svg?&style=flat&logo=SpringBoot&logoColor=white" alt="Spring Boot"> <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" alt="Redis"> <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka" alt="Apache Kafka">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Spring_Boot 3.x-6DB33F.svg?&style=flat&logo=SpringBoot&logoColor=white" alt="Spring Boot"> <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" alt="Redis"> <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka" alt="Apache Kafka">
 
 ## 구조
 
